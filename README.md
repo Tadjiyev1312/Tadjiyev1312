@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tadjiyev1312
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning i am html, css, JavaScript
+- 🌱 I’m currently learning i am html, css, JavaScript, Vuejs, Nuxt.js, Nest.js(node.js)
 - 💞️ I’m looking to collaborate on Frontrnd developer
 - 📫 How to reach me tadjiyevislombek610@gmail.com
 
